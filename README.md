@@ -1,5 +1,5 @@
 # Assignments_Java
-Class Assignments written in Java
+<h3><b>Class Assignments written in Java</b></h3>
 
 This repository contains all of my assignments from a data structures class I had at ECU.
 The code is split up into **Activities** and **Assignments**
